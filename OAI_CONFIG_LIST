@@ -1,0 +1,21 @@
+[
+    {
+        "model": "gpt-4o",
+        "api_key": "",
+        "base_url": "https://.openai.azure.com/",
+        "api_type": "azure",
+        "api_version": "2024-02-01",
+        "tags": ["tool", "4o-tool"]
+
+    },
+    {
+        "model": "gpt-35-turbo-16k",
+        "api_key": "",
+        "base_url":"https://.openai.azure.com/",
+        "api_type": "azure",
+        "api_version": "2024-02-01",
+        "tags": ["tool", "3.5-tool"]
+
+    }
+    
+]

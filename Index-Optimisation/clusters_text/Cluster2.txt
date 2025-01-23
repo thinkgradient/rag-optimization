@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Service Provider to EFSG",
+        "content": "<p>To be familiar with general provisions of the Service Level Agreement between EFSG as Company Service Provider and the Estera Group Entities and to assist the Manager \u2013 Company Secretarial and the Directors and administrative staff of EFSG to ensure that the key tasks and services are carried out. These tasks may include some or all of the following:</p><ul><li>Registration of directors;</li><li>Maintenance of registered office address;</li><li>Ensuring that all registers and records required to be held at the registered office are present and up to date and accurate and that the name is correctly displayed;</li><li>Ensuring share capital records are correct and up to date at all times and any changes to share capital are properly authorised and recorded;</li><li>Submission of annual validations in accordance with statutory deadlines;</li><li>Ensuring memorandum and articles of incorporation are accurate and up to date and any changes have been properly authorised and recorded;</li><li>Where applicable, to make applications to place entities into voluntary liquidation or to apply for voluntary strike off;</li><li>Ensuring that appropriate records are kept in accordance with the GFSC AML/CFT Handbook;</li><li>Where required to incorporate new entities;</li><li>Ensuring that audit and AGM waivers are applied for as required;</li><li>To oversee any corporate activity such as conversions, amalgamations and migrations are properly undertaken, where required;</li><li>To apply for a change of name, where required;</li><li>Ensuring that the provisions of the Companies (Guernsey) Law, 2008 (\"the Law\") as amended are complied with at all times and that any amendments to the Law are properly reviewed and complied with; and</li><li>Ensuring that any obligations as resident agent pursuant to the Law are fully complied with.</li></ul><p>To plan and adapt or implement appropriate procedures in order to ensure best practice delivery of corporate governance and company secretarial principles within EFSG to Corporate clients and to provide sufficient continuing training and oversight of client teams (all levels of staff) in this respect.</p>",
+        "keywords": [
+            "Service Provider",
+            "EFSG",
+            "Service Level Agreement",
+            "corporate governance",
+            "company secretarial principles",
+            "training",
+            "oversight"
+        ],
+        "questions": [
+            "What are the tasks of a Service Provider to EFSG?",
+            "What is included in the Service Level Agreement between EFSG and Estera Group?",
+            "How does EFSG ensure compliance with statutory deadlines?",
+            "What procedures are implemented for best practice delivery of corporate governance?"
+        ],
+        "rephrased_summary": "The Service Provider to EFSG must be familiar with the Service Level Agreement and assist in carrying out key tasks such as registration of directors, maintaining office addresses, ensuring accurate records, and complying with statutory deadlines. They also oversee corporate activities, ensure compliance with the Companies (Guernsey) Law, and implement procedures for best practice delivery of corporate governance and training.",
+        "origin": "service_provider_to_efsg.pdf",
+        "explanation": "This chunk details the responsibilities and tasks of the Service Provider to EFSG, which are outlined in a list format. These tasks are related to ensuring compliance and best practice within the organization."
+    }
+]

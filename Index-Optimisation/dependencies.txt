@@ -1,0 +1,6 @@
+python-dotenv
+azure-core
+azure-search-documents
+openai
+Pillow
+pymupdf

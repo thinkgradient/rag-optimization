@@ -1,0 +1,88 @@
+[
+    {
+        "title": "Job Description for Company Secretary",
+        "content": "<h1>Job Description</h1><h2>Company Secretary</h2><p>Human Resources</p><img src='estera_logo.png' alt='Estera Logo'>",
+        "keywords": [
+            "Job Description",
+            "Company Secretary",
+            "Human Resources",
+            "Estera"
+        ],
+        "questions": [
+            "What is the job title?",
+            "Which department is this job description for?",
+            "What company is offering this job?"
+        ],
+        "rephrased_summary": "This document is a job description for the position of Company Secretary in the Human Resources department at Estera.",
+        "origin": "company_secretary_job_description.pdf",
+        "explanation": "The page contains a title and subtitle that clearly indicate it is a job description for the role of Company Secretary. The company name and department are also mentioned, making it a self-contained unit of information."
+    },
+    {
+        "title": "Job Identification",
+        "content": "<h2>SECTION 1 \u2013 JOB IDENTIFICATION</h2><p><strong>JOB TITLE:</strong> COMPANY SECRETARY</p><p><strong>REPORTS TO:</strong> COMPANY SECRETARIAL MANAGER</p><p><strong>DEPARTMENT:</strong> COMPANY SECRETARIAL</p><p><strong>PERSONS TO BE SUPERVISED:</strong> NONE</p>",
+        "keywords": [
+            "Job Title",
+            "Company Secretary",
+            "Reports To",
+            "Department",
+            "Supervision"
+        ],
+        "questions": [
+            "What is the job title?",
+            "Who does the Company Secretary report to?",
+            "Which department does the Company Secretary belong to?",
+            "Are there any persons to be supervised by the Company Secretary?"
+        ],
+        "rephrased_summary": "The job title is Company Secretary, reporting to the Company Secretarial Manager, within the Company Secretarial department. There are no persons to be supervised.",
+        "origin": "company_secretary_job_description.pdf",
+        "explanation": "This chunk contains the job identification section, which includes the job title, reporting structure, department, and supervision details. These elements are grouped together as they provide a clear and concise identification of the job role."
+    },
+    {
+        "title": "Principal Duties and Responsibilities: Client Entities",
+        "content": "<h3>PRINCIPAL DUTIES AND RESPONSIBILITIES:</h3><h4>A) CLIENT ENTITIES</h4><ul><li>To convene, attend and take minutes at board meetings, including Funds and Corporate entities, recording discussions and decisions, drafting minutes, liaising with client teams (all levels of staff) for comments prior to external circulation.</li><li>To liaise with Board members and other relevant parties in respect of meeting arrangements and compliance with formalities.</li><li>To manage the timely preparation of board minutes. (Each client has a Service Level Agreement stipulating required timeframes for agendas, minutes and action points arising from the meetings.)</li><li>To provide company secretarial support for the set-up of corporate entities and LP\u2019s in various jurisdictions as well as maintaining company records, share and registrar functions and system maintenance.</li><li>To ensure adherence to good corporate governance principles concerning all Company Secretarial matters.</li><li>To make stock exchange announcements as and when required.</li><li>To co-ordinate the preparation of agendas and board packs and their timely circulation and dispatch in conjunction with the fund administrators and other Company Secretarial team members.</li><li>To prepare agendas, notices, proxies and other supporting documents for General Meetings, including liaison with relevant legal advisors.</li><li>To ensure the timely dispatch and collation of proxies where the client entity does not use an external registrar and liaise with other staff members to ensure a quorum is obtained.</li><li>To liaise with external Registrars in respect of the collation of proxies for relevant client entities.</li></ul>",
+        "keywords": [
+            "Principal Duties",
+            "Responsibilities",
+            "Client Entities",
+            "Board Meetings",
+            "Minutes",
+            "Corporate Governance",
+            "Stock Exchange Announcements",
+            "Agendas",
+            "Proxies"
+        ],
+        "questions": [
+            "What are the principal duties and responsibilities of the Company Secretary regarding client entities?",
+            "What tasks are involved in managing board meetings?",
+            "How does the Company Secretary ensure compliance with corporate governance principles?",
+            "What is the role of the Company Secretary in stock exchange announcements?"
+        ],
+        "rephrased_summary": "The Company Secretary's principal duties and responsibilities regarding client entities include convening and taking minutes at board meetings, liaising with board members, managing the preparation of board minutes, supporting the setup of corporate entities, ensuring corporate governance, making stock exchange announcements, preparing agendas and proxies, and liaising with legal advisors and external registrars.",
+        "origin": "company_secretary_job_description.pdf",
+        "explanation": "This chunk details the specific duties and responsibilities of the Company Secretary related to client entities. It includes a list of tasks and responsibilities, making it a distinct and comprehensive section of the job description."
+    },
+    {
+        "title": "Job Requirements for Company Secretary",
+        "content": "<h2>SECTION 3 \u2013 JOB REQUIREMENTS</h2><h3>KNOWLEDGE, SKILLS AND EXPERIENCE REQUIRED:</h3><ul><li>At least 2 years experience working in a Company Secretarial area, fund administration or similar environment.</li><li>Qualified ICSA (or training toward this qualification) would be an advantage.</li><li>The ability to work under pressure and to deadlines.</li><li>The ability to gain a good knowledge and awareness of the professional services provided by EIFG, EAUK and the practicalities and nuances involved.</li><li>Very good working knowledge of Word and Excel.</li><li>Excellent communication skills and the ability to work well within a team as well as on own initiative.</li><li>The ability to keep clear and concise records and to add value to the Company Secretarial role.</li><li>Good experience of writing concise and accurate minutes.</li></ul>",
+        "keywords": [
+            "Company Secretary",
+            "Job Requirements",
+            "Experience",
+            "Skills",
+            "ICSA",
+            "Communication",
+            "Teamwork",
+            "Record Keeping",
+            "Minutes Writing"
+        ],
+        "questions": [
+            "What are the job requirements for a Company Secretary?",
+            "What skills and experience are needed for a Company Secretary role?",
+            "Is ICSA qualification necessary for a Company Secretary?",
+            "What kind of work environment experience is required for a Company Secretary?"
+        ],
+        "rephrased_summary": "The job requirements for a Company Secretary include at least 2 years of experience in a Company Secretarial area or similar environment, ICSA qualification or training, ability to work under pressure, knowledge of professional services by EIFG and EAUK, proficiency in Word and Excel, excellent communication and teamwork skills, ability to maintain clear records, and experience in writing concise minutes.",
+        "origin": "company_secretary_job_requirements.pdf",
+        "explanation": "This chunk contains a list of job requirements for a Company Secretary, including necessary skills, experience, and qualifications. The structured list format makes it a clear, self-contained unit of information."
+    }
+]
